@@ -8,3 +8,7 @@ Practicas Laravel Master FullStack EIP
 - PRACTICA 2
   * practica 2 contiene la carpeta con todos los archivos de la practica
   * Nerea Tovar Práctica 2 contiene el PDF con la documentación de la práctica 2
+
+ - PRACTICA 3
+  * practica 3 contiene la carpeta con todos los archivos de la practica
+  * Nerea Tovar Práctica 3 contiene el PDF con la documentación de la práctica 3
